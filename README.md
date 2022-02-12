@@ -4,7 +4,7 @@
 
 This is the 68000 assembler source code for the ["Parcade"](https://www.pouet.net/prod.php?which=81350) Amiga intro.
 
-Code & Music: Antiriad (Jonathan Bennett <jon@autoitscript.com>)
+Code & Music: Antiriad (Jonathan Bennett / jon@autoitscript.com)
 
 ## Requirements
 
